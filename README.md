@@ -183,7 +183,7 @@ streamlit run frontend/app.py
 
 - Sakshi Sharma
 - Aryan Sharma
-- Shreya
+- Shreya Dadwal
 
 ---
 
