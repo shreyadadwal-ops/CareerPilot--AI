@@ -181,9 +181,9 @@ streamlit run frontend/app.py
 
 # 👥 Team Members
 
-- Shreya Dadwal
-- Team Member 2
-- Team Member 3
+- Sakshi Sharma
+- Aryan Sharma
+- Shreya
 
 ---
 

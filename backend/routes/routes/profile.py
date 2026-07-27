@@ -32,11 +32,7 @@ def get_profile():
 def create_student(student: StudentCreate, db: Session = Depends(get_db)):
     return crud.create_student(db, student)
 
-    db.add(new_student)
-    db.commit()
-    db.refresh(new_student)
-
-    return new_student
+    
 
 
 # Get All Students API
